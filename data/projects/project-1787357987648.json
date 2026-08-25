@@ -1,0 +1,80 @@
+{
+  "id": "project-1787357987648",
+  "name": "first",
+  "courseName": "",
+  "eventName": "",
+  "date": "",
+  "layouts": [
+    {
+      "id": "layout-1787618577524",
+      "name": "Default",
+      "colour": "#f59e0b",
+      "order": 0
+    }
+  ],
+  "holes": [
+    {
+      "id": "hole-1787618577524",
+      "number": 1,
+      "name": "",
+      "designs": [
+        {
+          "id": "design-1787618577524",
+          "layoutId": "layout-1787618577524",
+          "canvas": {
+            "shapes": [
+              {
+                "id": "shape-1787357979823-1",
+                "type": "rectangle",
+                "x": 266,
+                "y": 68.6015625,
+                "width": 91,
+                "height": 144,
+                "rotation": 0,
+                "fill": "rgba(59, 130, 246, 0.3)",
+                "stroke": "#3b82f6",
+                "strokeWidth": 2,
+                "visible": true,
+                "locked": false
+              }
+            ],
+            "backgroundColor": "#ffffff"
+          },
+          "par": 3,
+          "distance": 0,
+          "obRules": "",
+          "mandoNotes": "",
+          "notes": ""
+        }
+      ]
+    }
+  ],
+  "sponsorTemplate": {
+    "topBar": {
+      "shapes": [],
+      "backgroundColor": "#ffffff"
+    },
+    "topBarHeight": 60,
+    "bottomBar": {
+      "shapes": [],
+      "backgroundColor": "#ffffff"
+    },
+    "bottomBarHeight": 60,
+    "infoBanner": {
+      "canvas": {
+        "shapes": [],
+        "backgroundColor": "#ffffff"
+      },
+      "height": 80
+    }
+  },
+  "courseMap": {
+    "backgroundImage": null,
+    "canvas": {
+      "shapes": [],
+      "backgroundColor": "#ffffff"
+    }
+  },
+  "createdAt": "2026-08-22T00:19:47.648Z",
+  "updatedAt": "2026-08-22T00:19:47.648Z"
+}

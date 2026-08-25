@@ -1,0 +1,92 @@
+{
+  "id": "project-1787358293721",
+  "name": "oibaf",
+  "createdAt": "2026-08-22T00:24:53.721Z",
+  "updatedAt": "2026-08-22T00:29:26.331Z",
+  "shapes": [
+    {
+      "id": "shape-1787357979823-1",
+      "type": "rectangle",
+      "x": 266,
+      "y": 68.6015625,
+      "width": 91,
+      "height": 144,
+      "rotation": 0,
+      "fill": "rgba(59, 130, 246, 0.3)",
+      "stroke": "#3b82f6",
+      "strokeWidth": 2,
+      "visible": true,
+      "locked": false
+    },
+    {
+      "id": "shape-1787358261212-1",
+      "type": "ellipse",
+      "x": 531.5,
+      "y": 211.1015625,
+      "radiusX": 78.5,
+      "radiusY": 100.5,
+      "rotation": 0,
+      "fill": "rgba(34, 197, 94, 0.3)",
+      "stroke": "#22c55e",
+      "strokeWidth": 2,
+      "visible": true,
+      "locked": false
+    },
+    {
+      "id": "shape-1787358262366-2",
+      "type": "ellipse",
+      "x": 371,
+      "y": 413.6015625,
+      "radiusX": 71,
+      "radiusY": 25,
+      "rotation": 0,
+      "fill": "rgba(34, 197, 94, 0.3)",
+      "stroke": "#22c55e",
+      "strokeWidth": 2,
+      "visible": true,
+      "locked": false
+    },
+    {
+      "id": "shape-1787358263170-3",
+      "type": "ellipse",
+      "x": 187.5,
+      "y": 340.1015625,
+      "radiusX": 53.5,
+      "radiusY": 66.5,
+      "rotation": 0,
+      "fill": "rgba(34, 197, 94, 0.3)",
+      "stroke": "#22c55e",
+      "strokeWidth": 2,
+      "visible": true,
+      "locked": false
+    },
+    {
+      "id": "shape-1787358264081-4",
+      "type": "ellipse",
+      "x": 81,
+      "y": 166.1015625,
+      "radiusX": 22,
+      "radiusY": 29.5,
+      "rotation": 0,
+      "fill": "rgba(34, 197, 94, 0.3)",
+      "stroke": "#22c55e",
+      "strokeWidth": 2,
+      "visible": true,
+      "locked": false
+    },
+    {
+      "id": "shape-1787358279651-5",
+      "type": "rectangle",
+      "x": 532.2365475325702,
+      "y": 297.803955610811,
+      "width": 234,
+      "height": 227.0000000000003,
+      "rotation": 30.660898432707487,
+      "fill": "rgba(59, 130, 246, 0.3)",
+      "stroke": "#3b82f6",
+      "strokeWidth": 2,
+      "visible": true,
+      "locked": false
+    }
+  ]
+}
